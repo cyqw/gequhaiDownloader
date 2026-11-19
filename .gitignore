@@ -1,0 +1,22 @@
+# Build outputs
+/build/
+/**/build/
+/.hvigor/
+/**/.hvigor/
+oh_modules/
+/**/oh_modules/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+local.properties
+
+# Logs
+*.log
+hvigorw.bat
+hvigorw
+
+# Test artifacts
+entry/.test/

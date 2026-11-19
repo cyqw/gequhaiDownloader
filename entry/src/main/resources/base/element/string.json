@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "歌曲海下载器模块" },
+    { "name": "EntryAbility_desc", "value": "歌曲海下载器入口" },
+    { "name": "EntryAbility_label", "value": "歌曲海下载器" },
+    { "name": "internet_reason", "value": "用于搜索和下载歌曲" },
+    { "name": "file_access_persist_reason", "value": "用于持久化保存用户选择的下载目录" },
+    { "name": "get_network_info_reason", "value": "用于判断当前是移动网络还是WLAN，以便提示和暂停下载" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_test_desc", "value": "test module" },
+    { "name": "TestAbility_desc", "value": "test ability" },
+    { "name": "TestAbility_label", "value": "test" }
+  ]
+}
